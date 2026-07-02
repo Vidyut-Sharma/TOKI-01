@@ -27,4 +27,5 @@ Charger module | 26x4| to charge battery | https://robocraze.com/products/tp4056
 Rotary Encoder W button | 110 | main feature control | https://www.amazon.in/Electronic-Spices-KY-040-encoder-development/dp/B0BHWCWJDR/ref=sr_1_3?crid=3AUQZJGJ9VVEZ&dib=eyJ2IjoiMSJ9.lokXDVFuBPIqRW0i8KtV-VfKP5zYKmbe_QK_b86Yttnb9qoQwqZgdC66dWyiguvszHLmmhlRMyF6JHgFA1J4HpQcaDuo4Xp56Rr4ko4oQqm3lQeL3t_pyjtQiBU2dA-rqnXZtE6d2UfvGM8qXM1krRVa03cNHl7sG9sOn0XCbXEJxY6aqLfyjGup1um8JjoJUNZyySiB9uJZ6ADn1HRtc7v4lCboi80dJtABI36Wf0hXdhpaMOT5_1332S43cyRZ7XBoicXPZzKTasoHhgHIMuG_LJ4ip0jvXYDxhEnZZV4.aJApXTgcY-mmz9aMSkroCGhEJECkMyMRIeukibD856I&dib_tag=se&keywords=rotary+encoder&qid=1782741186&s=industrial&sprefix=rotary+enco%2Cindustrial%2C304&sr=1-3 | Amazon | 1
 USB-C breakout | 33 x 3| just in case | https://robocraze.com/products/usb-type-c-connector-breakout-female-7semi?_pos=1&_sid=3a543b412&_ss=r | robocraze | 3
 LiPo batery 2kMh | 600 | main power supply | https://www.amazon.in/gp/product/B0FL9B749G/ref=sw_img_1?smid=&psc=1 | Amaozonaz | 1
+# TOTAL-  ~Rs 14,000
 ## Please note that everything listed is on your cart of the respected store.
