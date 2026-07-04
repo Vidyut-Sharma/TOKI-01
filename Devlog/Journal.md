@@ -34,4 +34,17 @@
 
 # 2/7/2026-
 ## Progress-
+1. nothing much just leaned how to use EasyEDA.
 
+# 3/7/2026-
+## progress-
+1. ZERO PROGRESS....
+
+# 4/7/2026-
+## Progress-
+1. changed the design from a rotary encoder based input to a joystick based input and again to a 5 way switch input system.
+2. FOR THE FIRST TIME....I LEARNED HOW TO MAKE A PCB AND MADE MY FIRST SCHIMATIC FILE😭🙌.
+3. completed the rough schimstics ( idk if its schimatics or schamatics or shu shu sha sha )
+4. sleeping at 1AM after all this work.
+5. also decided to put pokemon games inside TOKI.
+6. 
