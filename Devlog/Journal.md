@@ -47,4 +47,9 @@
 3. completed the rough schimstics ( idk if its schimatics or schamatics or shu shu sha sha )
 4. sleeping at 1AM after all this work.
 5. also decided to put pokemon games inside TOKI.
-6. 
+
+# 5/7/2026-
+## Progress-
+1. Did some repairs and cleaning on the schematics.
+2. researched Parts and gathered data sheets.
+3. 
