@@ -52,4 +52,14 @@
 ## Progress-
 1. Did some repairs and cleaning on the schematics.
 2. researched Parts and gathered data sheets.
-3. 
+   
+# 6/7/2026-
+## Progress-
+1. had plans to start PCB routing just when i found out that there were problems with the main rsapberry pi footprint so i had to redo the connections🥲💔.
+2. this time i made it WAY cleaner and more professional
+3. at the end, gemini saved my day because the 2nd pi board was also not accurate and before doing anythign else, it got solved🙏.
+# 7/7/2027-
+## Progresss-
+1. finally completed the entire schematics ( though have a few doubts regarding the foorprints)
+2. changed the BoM a bit by removing un necessary expenses and adding things that i really want. 
+3. was a fun experience😤.
